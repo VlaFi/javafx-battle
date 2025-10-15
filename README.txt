@@ -11,8 +11,8 @@
 
 Как запустить
 
-1. Установить [JDK 24+](https://www.oracle.com/java/technologies/downloads/).
-2. Установить [JavaFX SDK 24+](https://openjfx.io/).
+1. Установить JDK 24+ (https://www.oracle.com/java/technologies/downloads/).
+2. Установить JavaFX SDK 24+ (https://openjfx.io/).
 3. В IntelliJ IDEA добавь аргументы VM:
 --module-path "C:\javafx-sdk-24\lib" --add-modules javafx.controls,javafx.fxml
 4. Запусти класс `GameUI`.
